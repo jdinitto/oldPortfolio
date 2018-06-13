@@ -1,0 +1,29 @@
+body {
+	background-color: black; 
+	margin: 0;
+	padding: 0;
+	}
+
+img {
+	border: 0; }
+
+a:link, a:visited, a:active {
+	font-family: arial, helvetica, sans serif;
+	color: #A1B0B5;
+	text-decoration: underline; }
+
+a:active {
+	color: black; }
+
+a:hover {
+	text-decoration: none; }
+
+.mainHeader {
+	font-family: arial, helvetica, "sans serif";
+	font-size: 13px;
+	color: #CEF3FF; }
+
+.mainContent {
+	font-family: arial, helvetica, "sans serif";
+	font-size: 11px;
+	color: #dddddd; }
